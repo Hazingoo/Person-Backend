@@ -1,0 +1,14 @@
+{
+  "anecdotes": [
+    {
+      "content": "daniel zhang is a human",
+      "votes": 9,
+      "id": 1
+    },
+    {
+      "content": "This is made through redux",
+      "votes": 3,
+      "id": 2
+    }
+  ]
+}
